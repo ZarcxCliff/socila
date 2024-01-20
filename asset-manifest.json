@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/socila/static/css/main.c3578a2c.css",
+    "main.js": "/socila/static/js/main.a48eb7ae.js",
+    "index.html": "/socila/index.html",
+    "main.c3578a2c.css.map": "/socila/static/css/main.c3578a2c.css.map",
+    "main.a48eb7ae.js.map": "/socila/static/js/main.a48eb7ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3578a2c.css",
+    "static/js/main.a48eb7ae.js"
+  ]
+}
